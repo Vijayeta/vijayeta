@@ -29,7 +29,7 @@ _Coming soon — check back for the next project._
 
 | Repo | Description | Stack |
 |------|-------------|-------|
-| [energysense-ai](https://github.com/Vijayeta) | AI energy consultant for India's underserved SMEs — hybrid RAG architecture over uploaded utility data | TypeScript, Claude Sonnet 4.6, Voyage AI |
+| [energysense-ai](https://github.com/Vijayeta/energysense-ai) | AI energy consultant for India's underserved SMEs — hybrid RAG architecture over uploaded utility data | TypeScript, Claude Sonnet 4.6, Voyage AI |
 
 _More repos to be added._
 
