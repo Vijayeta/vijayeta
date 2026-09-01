@@ -22,16 +22,12 @@ Built on a hybrid RAG architecture (Claude Sonnet 4.6 + Voyage AI) grounded in I
 
 Solo PM + builder — research, strategy, architecture, evals, and deployment.
 
-### 🚧 Next Build
-_Coming soon — check back for the next project._
-
 ## 📌 Featured Repos
 
 | Repo | Description | Stack |
 |------|-------------|-------|
 | [energysense-ai](https://github.com/Vijayeta/energysense-ai) | AI energy consultant for India's underserved SMEs — hybrid RAG architecture over uploaded utility data | TypeScript, Claude Sonnet 4.6, Voyage AI |
-
-_More repos to be added._
+| [ai-telecom-support-assistan](https://github.com/Vijayeta/ai-telecom-support-assistant) | Tier-1 telecom support scope (connectivity, billing, roaming, SIM/eSIM), grounded only in FAQ + resolved tickets + PDF guide, three collections queried in parallel with source-labelled answers| Python, LangChain (LCEL), ChromaDB, Qwen3.6-27B on Groq, local all-MiniLM-L6-v2 embeddings, Streamlit|
 
 ## 🧠 Expertise
 
