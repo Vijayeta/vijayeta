@@ -9,9 +9,9 @@ Solo AI Builder · 14 years in Enterprise Software
 
 ## About
 
-I've spent 14 years doing the parts of product management that don't show up in a job title — running discovery, owning the roadmap, and making the trade-off calls, across telecom, energy, and enterprise SaaS.
+I've spent 14 years doing the parts of product management that don't show up in a job title:  running discovery, owning the roadmap, and making the trade-off calls, across telecom, energy, and enterprise SaaS.
 
-I'm now formalizing that transition into AI Product Management, and I've already put it to the test: I built and shipped an AI product of my own, from the first customer interview to a live app, to prove I can do the job end to end — not just the delivery half of it.
+I'm now formalizing that transition into AI Product Management, and I've already put it to the test: I built and shipped an AI product of my own, from the first customer interview to a live app, to prove I can do the job end-to-end — not just the delivery half of it.
 
 ## 🚀 What I'm Building
 
